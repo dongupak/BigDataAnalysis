@@ -23,9 +23,9 @@
 * (따라하며 배우는) 파이썬과 데이터 과학, 천인국, 박동규, 강영민, 생능출판사 (2023)
    * [[YES24]](https://www.yes24.com/Product/Goods/123677210), [[네이버 도서]](https://search.shopping.naver.com/book/catalog/44042796624?cat_id=50010920&frm=PBOKPRO&query=%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0+%EB%B0%B0%EC%9A%B0%EB%8A%94+%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC+%EB%8D%B0%EC%9D%B4%ED%84%B0+%EA%B3%BC%ED%95%99&NaPm=ct%3Dlwitj9ts%7Cci%3D44b6c51323f236f5d23f2b98d519059801d82111%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3D4e9008498ac59466808e6537e00f775dc65d653c) 
 
-* 으뜸 파이썬, 박동규, 강영민, 생능출판사 (2020) - 세종도서 학술부문 선정
-   * [[YES24]](http://www.yes24.com/Product/Goods/89140722), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=330274507&pis1=book&pis2=product), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970503691&orderClick=LEa&Kc=)
-   * 으뜸 파이썬 github 저장소 : https://github.com/dongupak/Prime-Python
+* 으뜸 파이썬(개정판), 박동규, 강영민, 생능출판사 (2024) - 세종도서 학술부문 선정
+   * [[YES24]](https://www.yes24.com/product/goods/127086641)
+   * 으뜸 파이썬(개정판) github 저장소 : https://github.com/dongupak/Prime-Python
    
 * 으뜸 머신러닝, 강영민, 박동규, 김성수, 생능출판사 (2021)
    * [[YES24]](http://www.yes24.com/Product/Goods/102577953), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=352099030&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504919&orderClick=LEa&Kc=)
