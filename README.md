@@ -35,3 +35,17 @@
   <img src="https://github.com/dongupak/DataSciPy-1st_edition/blob/master/image/Prime_Python_book.png" width=200px>
   <img src="https://github.com/dongupak/DataSciPy-1st_edition/blob/master/image/Prime_ML.jpg?raw=true" width=200px>
 </p>
+
+***
+# 책의 목차
+* [목차](https://github.com/dongupak/BigDataAnalysis/blob/master/contents.md)
+: "따라하며 배우는 빅데이터 분석" 책의 목차를 제공합니다.
+
+# 책의 오류 및 오탈자(정오표)
+* [정오표](https://github.com/dongupak/BigDataAnalysis/blob/master/errata/README.md)
+: "따라하며 배우는 빅데이터 분석" 책의 오탈자 목록을 제공합니다.
+책의 오류는 다음 이메일로 알려주십시오.
+```
+    dongupak@gmail.com
+```
+
