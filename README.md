@@ -17,7 +17,7 @@
 
 ## 책 구매(온라인 서적)
 * (따라하며 배우는) 빅데이터 분석, 박동규(2024)
-   * [[YES24]]([https://www.yes24.com/product/goods/138471950]), [[교보문고]]([https://product.kyobobook.co.kr/detail/S000214758232]) 
+   * [[YES24]](https://www.yes24.com/product/goods/138471950) 링크, [[교보문고]](https://product.kyobobook.co.kr/detail/S000214758232) 링크
 
 ## 함께 보면 더 좋은 책
 * (따라하며 배우는) 파이썬과 데이터 과학, 천인국, 박동규, 강영민, 생능출판사 (2023)
